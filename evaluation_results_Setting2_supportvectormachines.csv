@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1-score,Mean cross-validation score,True Positives,False Positives,False Negatives,True Negatives,entropy,consonant_count,digit_count,non_alphanumeric_count,english_word_count
+0.8146875,0.8570437196391395,0.7614056720098644,0.8063989552726085,0.8106129815205501,2470,412,774,2744,0.00012136269536238499,0.12755669062408995,0.10639488107504909,0.2549348825612229,0.5109921830442757
